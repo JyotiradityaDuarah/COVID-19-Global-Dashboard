@@ -1,4 +1,4 @@
-🛠 Tools & Techniques Used
+## 🛠 Tools & Techniques Used
 
 Microsoft Excel
 
@@ -10,7 +10,7 @@ Data Visualization (Charts)
 
 Lookup Functions (VLOOKUP, HLOOKUP)
 
-📊 Key Analytical Tasks
+## 📊 Key Analytical Tasks
 
 Calculated metrics including:
 
@@ -34,7 +34,7 @@ Combo chart (Death Rate vs Cases)
 
 Performed lookup operations to retrieve demographic attributes
 
-📈 Skills Demonstrated
+## 📈 Skills Demonstrated
 
 Data cleaning and preparation
 
@@ -46,6 +46,6 @@ Dashboard creation for decision support
 
 Translating raw data into visual insights
 
-🎯 Outcome
+## 🎯 Outcome
 
 The project enhanced practical understanding of Excel-based data analysis and demonstrated the ability to convert structured datasets into meaningful insights to support policy and operational decision-making.
